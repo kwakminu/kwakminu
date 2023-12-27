@@ -1,3 +1,1 @@
-안녕하세요
-숭실대학교
-곽민우입니다.
+![header](https://capsule-render.vercel.app/api?type=venom&text=kwakminu)
